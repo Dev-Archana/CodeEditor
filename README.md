@@ -13,4 +13,6 @@
     <li>axios</li>
     <li>@monaco-editor/react</li>
   </ol>
+  <li><b>After downloading all the dependencies create one js file knows as theme.js and update the themes</b></li>
+  <a href="Theme.js">Theme page</a>
 </ul>
