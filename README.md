@@ -10,5 +10,7 @@
     <li>@chakra-ui/react</li>
     <li>@emotion/react</li>
     <li>@emotion/styled frame</li>
+    <li>axios</li>
+    <li>@monaco-editor/react</li>
   </ol>
 </ul>
